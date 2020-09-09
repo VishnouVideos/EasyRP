@@ -3,7 +3,7 @@ EasyRP (Custom Discord Rich Presence) https://github.com/VishnouVideos/EasyRP
      - Go here https://discordapp.com/developers/applications/me
      - Make a new application **The name of the app will be the main name for the rich presence**
      - Enable rich presence for your app and add some assets
-2 Download the latest release of EasyRP from here https://github.com/VishnouVideos/EasyRP
+2 Download the latest release of EasyRP from here https://github.com/VishnouVideos/EasyRP/releases/
 3 Edit the config file with the information from your newly registered app
 4 Run easyrp (it should open a cmd window)
     - It *should* report errors from your config file (if there are any)
